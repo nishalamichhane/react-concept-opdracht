@@ -1,0 +1,26 @@
+.header{
+    width: 100%;
+    height: 450px;
+    background-color: #dd3038;
+    text-align: center;
+}
+.navbar ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 10em;
+    background-color: #dd3038;
+    align-items: center;
+}
+.navbar li {
+    list-style-type: none;
+    color: white;
+
+
+}
+.navbar a {
+    text-decoration: white;
+}
+h1,h2,h4 {
+    font-family: Quicksand;
+}
